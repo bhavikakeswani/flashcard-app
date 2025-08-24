@@ -56,3 +56,10 @@ python main.py
 - Add support for multiple decks (e.g., Spanish, German)
 - Track user progress across sessions
 - Export learned words
+
+---
+
+## License
+This project is licensed under the MIT License.
+
+---
