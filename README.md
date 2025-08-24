@@ -38,7 +38,7 @@ The app shows a French word on the front of a card and flips it after a few seco
 
 1. Clone the project:  
 ```bash
-git clone https://github.com/YOUR_USERNAME/flashcard-app.git
+git clone https://github.com/bhavikakeswani/flashcard-app.git
 cd flashcard-app
 ```
 2. Install dependencies:
